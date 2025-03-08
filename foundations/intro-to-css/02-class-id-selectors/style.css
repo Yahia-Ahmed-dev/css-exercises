@@ -1,0 +1,16 @@
+.Odd-numbers{
+    background-color: rgba(255, 0, 0, 0.322);
+    font-family: sans-serif;
+   font-size: 20px;
+}
+
+#two{
+    color: blue;
+    font-size: 35px;
+}
+
+#four{
+    background-color: rgba(43, 235, 5, 0.623);
+    font-size: 20px;
+    font-weight: bold;
+}
